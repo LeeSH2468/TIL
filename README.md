@@ -22,11 +22,11 @@
 
 ## 이모티콘 분류
 
-- 📚 : 공부용(정처기 이론 등)
+- 📚 :  IT 관련 용어
 
 - 📄 : 언어관련 이론
 
-- 💻 : 코드, 풀이 등 코드
+- 💻 : 알고리즘 코드
 
   
 
@@ -36,12 +36,11 @@
 - 이론
 
 
+### 이론
 
+[클린코드](https://github.com/LeeSH2468/TIL/blob/main/%EC%9A%A9%EC%96%B4/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%EC%99%80%20TDD.md)
 
-
-[클린코드]()
-
-[TDD]()
+[TDD](https://github.com/LeeSH2468/TIL/blob/main/%EC%9A%A9%EC%96%B4/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%EC%99%80%20TDD.md)
 
 
 
